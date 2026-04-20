@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data
+data/
+*.pth
+
+# IDE
+.vscode/
+.idea/
