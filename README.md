@@ -1,4 +1,4 @@
-# Practice Projects - Environmental DS
+# Environmental Data Science Projects
 
 These are a few projects I built while practicing my skills in environmental data science area.
 
