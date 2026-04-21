@@ -4,6 +4,10 @@ This is a Python tool that reads Survey123 (ESRI's survey tool) like field inspe
 
 This work is inspired by the workflow of taking quick field notes from inspectors and turning them into client ready documentation. This is a common pain point in environmental and infrastructure consulting industry.
 
+From messy survey data to this in seconds:
+<img width="640" height="531" alt="image" src="https://github.com/user-attachments/assets/f47093e1-bce6-4ec9-9dd4-e7e940cd52b5" />
+
+
 ## What it does?
 
 For each inspection record in the input CSV:
