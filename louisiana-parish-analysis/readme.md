@@ -20,6 +20,9 @@ Coastal Louisiana work constantly deals with the question: *for a set of field o
 8. **Visualizes** with a side by side matplotlib choropleth and an interactive Folium map with clickable markers
 9. **Extracts insights** about hot spot identification, type mix by parish, and urban vs rural coverage analysis
 
+<img width="648" height="373" alt="image" src="https://github.com/user-attachments/assets/2f212f9e-734b-4916-a370-e75fa3887df6" />
+
+
 ## Stack
 
 - Python 3.13
